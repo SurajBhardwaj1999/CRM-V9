@@ -1,6 +1,6 @@
 # CRM-V9
 
-We provided 2 types of dashboards like Admin & Client
+**We provided 2 types of dashboards like Admin & Client**
 
 Key Features of the CRM v9 Admin Panel
 
