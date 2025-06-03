@@ -1,5 +1,53 @@
 # CRM-V9
-# Key Features of CRM v9
+
+We provided 2 types of dashboards like Admin & Client
+
+Key Features of the CRM v9 Admin Panel
+
+# 1. User Management
+
+Client Onboarding: Approve or reject new client registrations.
+
+Account Monitoring: View and manage client account details, including balances and activity logs.
+
+Role-Based Access: Assign different access levels to staff members to ensure appropriate permissions.
+
+# 2. Trade Oversight
+
+Order Monitoring: Track and manage client orders in real-time.
+
+Trade History: Access detailed records of all executed trades for auditing and support purposes.
+
+Risk Management: Set parameters to monitor and control trading risks.
+
+# 3. Financial Management
+
+Deposit & Withdrawal Oversight: Approve or decline client deposit and withdrawal requests.
+
+Transaction Logs: Maintain a comprehensive log of all financial transactions for transparency and auditing.
+
+# 4. Platform Configuration
+
+Asset Management: Add, remove, or modify available trading instruments and their parameters.
+
+Fee Structure: Define and adjust commission structures, spreads, and other fee-related settings.
+
+Risk Parameters: Set margin levels, stop-out levels, and other risk-related configurations.
+
+# 5. Reporting & Analytics
+
+Performance Dashboards: Access visual representations of trading volumes, revenue, and other key metrics.
+
+Audit Trails: Maintain logs of all administrative actions for accountability and compliance.
+
+# 6. Client Support Tools
+
+Communication Channels: Integrate messaging systems to facilitate communication with clients.
+
+Issue Resolution: Track and manage client-reported issues or disputes.
+
+
+# Key Features of CRM v9 client panel
 
 # 1. Account Management
 
